@@ -1,5 +1,5 @@
 {
-  "name": "@cycjimmy/jsmpeg-player",
+  "name": "@soonwait/jsmpeg-player",
   "version": "5.0.0",
   "description": "MPEG1 Video Player Based On JSMpeg",
   "main": "dist/jsmpeg-player.cjs.js",
